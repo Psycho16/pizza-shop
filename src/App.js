@@ -1,5 +1,4 @@
 import React from 'react';
-import logo from './assets/img/pizza-logo.svg';
 import axios from 'axios';
 import { Route } from 'react-router-dom';
 import { Header } from './components/index';
